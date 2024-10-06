@@ -1,0 +1,9 @@
+package com.scaler.reposiitory;
+
+import com.scaler.models.Ticket;
+
+public class TicketRepository {
+    public Ticket save(Ticket ticket) {
+        return null;
+    }
+}

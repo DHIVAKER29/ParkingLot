@@ -1,4 +1,8 @@
 package com.scaler.models;
 
-public class ParkingSpotAssignmentStrategy {
+public enum ParkingSpotAssignmentStrategy {
+    NEAREST,
+    CHEAPEST,
+    RANDOM,
+    VIP,
 }

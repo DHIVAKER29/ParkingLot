@@ -8,7 +8,7 @@ import com.scaler.models.VehicleType;
 public class NearestSpotAssignmentStrategy implements SpotAssignmentStrategy {
 
     @Override
-    public ParkingSpot assignSpot(Gate gate, Vehicle vehicle) {
+    public ParkingSpot assignSpot(Gate gate, VehicleType vehicleType) {
         return null;
     }
 }

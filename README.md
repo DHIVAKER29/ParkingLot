@@ -5,19 +5,19 @@ Key Features:
 Car Types:
 
 There are different types of cars based on their size:
-Small cars
-Medium cars
-Large cars
+HATCHBACK
+SEDAN
+SUV
 
 Parking Spot Types:
 
 The parking lot has a limited number of parking spots, categorized as:
 
-Small spots: Can accommodate small cars only.
+HATCHBACK: Can accommodate small cars only.
 
-Medium spots: Can accommodate small or medium cars.
+SEDAN: Can accommodate small or medium cars.
 
-Large spots: Can accommodate small, medium, or large cars.
+SUV: Can accommodate small, medium, or large cars.
 
 Operations:
 
